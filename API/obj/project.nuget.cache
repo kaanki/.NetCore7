@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kg6abjEaRImIxd3ZHc1xJfhWk839mwjs0BLFUjbGBSbiLPUiZAZhedC7GmV436zo5c3aQG21vFsbNHTqWLlySg==",
+  "dgSpecHash": "BJMa3NolvZyISYFGhUnWGv7J6XzDm4rFsZPfyeEzh9xd0n2+jlV9TQ2bRJJdceRTQBNH0b+sSbmCUy8ocnjs9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kaan\\OneDrive\\Masaüstü\\.NetCore\\Project\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Kaan\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Kaan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Kaan\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
